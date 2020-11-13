@@ -10,4 +10,4 @@ $ The colour combination is made this way to add neon effect
 # Thank You Screen
 ### Here Thank You appears in multiple colors
 
-<img src = "Thankyou.jpeg">
+<img src = "https://github.com/ankita2002/CG-Mini-Project-Scientific-Calculator/blob/main/Images/Thankyou.jpeg?raw=true">
